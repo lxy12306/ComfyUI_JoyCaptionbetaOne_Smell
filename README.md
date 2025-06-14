@@ -36,4 +36,5 @@ ComfyUI_JoyCaptionbetaOne_Smell/
 - 启动 ComfyUI 后，相关节点会自动出现在节点面板中。
 - 可在 `JoyCaption` 分类下找到对应节点。
 
-如有问题欢迎提交 issue。
+该仓库暂不维护，更新在https://github.com/lxy12306/ComfyUI_Model_Nodes_Smell进行更新
+
